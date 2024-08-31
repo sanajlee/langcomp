@@ -1,0 +1,101 @@
+### TEPS
+
+1.
+
+The Dispatcher
+June 30, 2020
+
+A Bugg in the System
+Tony Delamare
+
+Last month, self-published author Roger Richmond logged into his Bookbugg account to see whether he had finally sold any copies of his novels Down With All and Down With All 2 on the self-publishing site. It was then that he noticed another book bearing his name: Down With All 3. 
+Having never authored any such book, Richmond was baffled. He was even more shocked when he noticed the book's price tag: $23,000 dollars. Richmond knew that no one was likely to fork out such an enormous amount of money for the fake book. Even so, he reported the matter to Bookbugg, which immediately removed the title from its website.
+So how did this strange book appear on the website in the first place? It turns out that money launderers have been taking advantage of Bookbugg. They quickly produce books filled with algorithmically generated gibberish. These books are then listed for prohibitive sums of money and given the names of obscure authors to limit the chances of them being discovered. Bookbugg admits that several illegal transactions have occurred in this way but insists that measures have now been taken to prevent this from happening again. 
+
+### Example Question:
+Q: What criminal activity was Bookbugg being used for? 
+(a) The transfer of unlawfully earned funds 
+(b) The illegal resale of copyrighted material 
+(c) The unauthorized collection of customer data 
+(d) The advertising and sale of unavailable books 
+
+#### Example Question:
+Q: What can be inferred about Down With All 3 from the report? 
+(a) It contains computer-generated text. 
+(b) It was purchased by innocent customers. 
+(c) It completes the author's planned trilogy. 
+(d) It was printed by an unlicensed company.
+
+
+
+2.
+
+Listen to a conversation between two classmates.
+M: I heard you got an A in the Ancient Philosophy class. Congratulations!
+W: Thanks. It took me a little by surprise.
+M: Why? Your attendance was good, and you had almost perfect quiz scores.
+W: True, but I turned in my term paper a few days late.
+M: Then your grade is even more impressive, since you probably were penalized.
+W: Yeah, I guess the teacher didn't deduct too many points.
+
+Q: Why was the woman surprised that she received an A in her Ancient Philosophy class?
+(a) She received low scores on her quizzes.
+(b) She struggled throughout the term.
+(c) She was late to class a few times.
+(d) She missed the term paper's deadline.
+
+
+
+3.
+
+(a) The International Academy of Astronautics has specific protocols for responding to the discovery of intelligent alien life. 
+(b) These dictate that an observatory detecting possible signs of life must notify other observatories for independent verification. 
+(c) If the signal is deemed genuinely, the original observatory is supposed to inform national and international officials. 
+(d) The same observatory has the privilege of publicly announcing the news, though it will probably have already been leaked. 
+
+
+
+###수능 영어
+
+1.
+
+Question:
+다음 글의 목적으로 가장 적절한 것은?
+
+Passage:
+I'm Charlie Reeves, manager of Toon Skills Company. If you're interested in new webtoon-making skills and techniques, this post is for you. This year, we've launched special online courses, which contain a variety of contents about webtoon productions. Each course consists of ten units that help improve your drawing and story-telling skills. Moreover, these courses are designed to suit any level, from beginner to advanced. It costs $45 for one course, and you can watch your course as many times as you want for six months. Our courses with talented and experienced instructors will open up a new world of creativity for you. It's time to start creating your webtoon at https://webtoonskills.com
+
+Options:
+1. 웹툰 제작 온라인 강좌를 홍보하려고
+2. 웹툰 작가 채용 정보를 제공하려고
+3. 신작 웹툰 공개 일정을 공지하려고
+4. 웹툰 창작 대회에 출품을 권유하려고
+5. 기초적인 웹툰 제작 방법을 설명하려고
+
+
+2.
+
+Passage:
+A musical score within any film can add an additional layer to the film text, which goes beyond simply imitating the action viewed. In films that tell of futuristic worlds, composers, much like sound designers, have added freedom to create a world that is unknown and new to the viewer. However, unlike sound designers, composers often shy away from creating unique pieces that reflect these new worlds and often present musical scores that possess familiar structures and cadences. While it is possible that his may interfere with creativity and a sense of space and time, it in fact ____________. Through recognizable scores, visions of the future or a galaxy far, far away can be placed within a recognizable context. Such familiarity allows the viewer to be placed in a comfortable space so that the film may then lead the viewer to what is unfamiliar, but acceptable vision of a world different from their own.
+
+Options:
+1. frees the plot of its familiarity
+2. aids in viewer access to the film
+3. adds to an exotic musical experience
+4. orients audiences to the film's theme
+5. inspires viewers to think more deeply
+
+ 
+3.
+
+Question: Charles H. Townes에 관한 다음 글의 내용과 일치하지 않는 것은?
+
+Passage:
+Charles H. Townes, one of the most influential American physicists, was born in South Carolina. In his childhood, he grew up on a farm, studying the stars in the sky. He earned his doctoral degree from the California Institute of Technology in 1939, and then he took a job at Bell Labs in New York City. After World War II, he became an associate professor of physics at Columbia University. In 1958, Townes and his co-researcher proposed the concept of the laser. Laser technology won quick acceptance in industry and research. He received the Nobel Prize in Physics in 1964. He was also involved in Project Apollo, the moon landing project. His contribution is priceless because the Internet and all digital media would be unimaginable without the laser.
+
+Options:
+1. 어린 시절에 농장에서 성장하였다.
+2. 박사 학위를 받기 전에 Bell Labs에서 일했다.
+3. 1958년에 레이저의 개념을 제안하였다.
+4. 1964년에 노벨 물리학상을 수상하였다.
+5. 달 착륙 프로젝트에 관여하였다.
